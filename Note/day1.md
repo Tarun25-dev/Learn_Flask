@@ -1,7 +1,7 @@
 
 ---
 
-##### History
+#### History
 
 **Who created Flask?**
 - Flask was created by **Armin Ronacher** in 2010.
